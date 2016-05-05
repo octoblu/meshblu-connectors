@@ -5,13 +5,20 @@
 - [x] Mac OS Automated Connector Builds
 - [x] Windows Automated Connector Builds
 - [x] Linux Automated Connector Builds
-- [ ] Generator for Node Connectors
-- [x] Mac OS Installer
-- [ ] (partially done) Windows Installer
-- [ ] (started) Linux Installer
-- [ ] Connector Registry
-- [ ] Wizard for app.octoblu.com
+- [x] Generator for Connectors
+- [x] Mac OS Installer UI
+- [x] Windows Installer UI
+- [x] Linux Installer UI
+- [ ] Headless Installer
+- [x] Connector Wizard UI
+- [x] Custom Online Status in Connectors
+- [ ] Updated Schema and Whitelists
 - [ ] Auto-updates for connectors
-- [ ] Mac OS Manager
-- [ ] Windows Manager
-- [ ] Deployment Manager
+- [ ] Multiple Versions of Node
+- [ ] Updated Schema
+- [ ] Mac OS Muti-Connector Manager
+- [ ] Windows Muti-Connector Manager
+- [ ] Deployment Muti-Connector Manager
+- [ ] Multiple Versions of Node
+- [ ] Documentation
+- [ ] Tutorials
