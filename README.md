@@ -6,7 +6,7 @@ Gateblu is complex, unstable, and an overall bad experience. We are removing it 
 
 ## Introduction
 
-We have gone through several iterations of Gateblu, trying to solve a very complex problem in complex ways. By nature Gateblu was complicated, hard to manage, and a bad user experience. We've taken the good parts of Gateblu, a long with some other ideas, to create something simple.
+We have gone through several iterations of Gateblu, trying to solve a very complex problem in complex ways. By nature Gateblu was complicated, hard to manage, and a bad user experience. We've taken the good parts of Gateblu, a long with some other ideas, and we've decided to create something new.
 
 ## Installation Overview
 
