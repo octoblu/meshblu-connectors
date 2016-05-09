@@ -15,7 +15,6 @@
 - [ ] Headless Installer
 - [ ] Updated Schema and Whitelists
 - [ ] Auto-updates for connectors
-- [ ] Updated Schema
 - [ ] Mac OS Muti-Connector Manager
 - [ ] Windows Muti-Connector Manager
 - [ ] Documentation
