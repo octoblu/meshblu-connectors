@@ -12,11 +12,10 @@
 - [x] Linux Installer UI
 - [x] Connector Wizard UI
 - [x] Custom Online Status in Connectors
+- [x] Updates for connectors
+- [x] Stop / Start for connectors
 - [ ] Headless Installer
 - [ ] Updated Schema and Whitelists
-- [ ] Auto-updates for connectors
-- [ ] Mac OS Muti-Connector Manager
-- [ ] Windows Muti-Connector Manager
 - [ ] Documentation
 
 # Extras
