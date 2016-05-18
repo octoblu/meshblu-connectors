@@ -15,8 +15,9 @@
 - [x] Updates for connectors
 - [x] Stop / Start for connectors
 - [ ] Headless Installer
-- [ ] Updated Schema and Whitelists
+- [x] Updated Schema
 - [ ] Documentation
+- [ ] Update Connectors. See [here](https://github.com/octoblu/meshblu-connectors/blob/master/TOP_CONNECTORS.md)
 
 # Extras
 - [ ] Multiple Versions of Node
