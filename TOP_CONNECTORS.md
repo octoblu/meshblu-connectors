@@ -1,11 +1,11 @@
 ## Top Connectors
 
-- [x] 1692 'device:chromecast'
-- [ ] 1535 'device:wemo'
+- [x] 1692 'device:chromecast' - Peter
+- [x] 1535 'device:wemo' - Peter
 - [ ] 260 'device:blink1'
 - [ ] 256 'device:hue'
 - [ ] 244 'device:shell'
-- [x] 214 'device:bean'
+- [x] 214 'device:bean' - Peter
 - [ ] 142 'device:beacon'
 - [ ] 61 'device:serial'
 - [ ] 61 'device:http-connector'
