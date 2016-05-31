@@ -4,7 +4,7 @@
 - [x] 1535 'device:wemo' - Peter
 - [x] 260 'device:blink1' - Peter
 - [ ] 256 'device:hue' - Moheeb WIP
-- [ ] 244 'device:shell'
+- [ ] 244 'device:shell' - Peter WIP
 - [x] 214 'device:bean' - Peter
 - [ ] 142 'device:beacon' - Moheeb WIP
 - [ ] 61 'device:serial' - Moheeb WIP
