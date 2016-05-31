@@ -2,7 +2,7 @@
 
 - [x] 1692 'device:chromecast' - Peter
 - [x] 1535 'device:wemo' - Peter
-- [ ] 260 'device:blink1'
+- [ ] 260 'device:blink1' - Peter (In Progress)
 - [ ] 256 'device:hue'
 - [ ] 244 'device:shell'
 - [x] 214 'device:bean' - Peter
