@@ -3,18 +3,18 @@
 - [x] 1692 'device:chromecast' - Peter
 - [x] 1535 'device:wemo' - Peter
 - [x] 260 'device:blink1' - Peter
-- [x] 256 'device:hue' - Moheeb WIP
+- [ ] 256 'device:hue' - Moheeb WIP
 - [ ] 244 'device:shell'
 - [x] 214 'device:bean' - Peter
-- [x] 142 'device:beacon' - Moheeb WIP
-- [x] 61 'device:serial' - Moheeb WIP
+- [ ] 142 'device:beacon' - Moheeb WIP
+- [ ] 61 'device:serial' - Moheeb WIP
 - [ ] 61 'device:http-connector'
 - [ ] 60 'device:hue-light'
 - [ ] 60 'device:forwarder'
 - [ ] 57 'device:myo'
-- [x] 57 'device:citrix-receiver' - Moheeb WIP
-- [x] 51 'device:dynamicj5' - Moheeb WIP
-- [x] 50 'device:lifx' - Moheeb WIP
+- [ ] 57 'device:citrix-receiver' - Moheeb WIP
+- [ ] 51 'device:dynamicj5' - Moheeb WIP
+- [ ] 50 'device:lifx' - Moheeb WIP
 - [ ] 50 'device:say-hello'
 - [ ] 44 'device:raspberrypi'
 - [ ] 44 'device:alljoyn'
@@ -23,7 +23,7 @@
 - [ ] 36 'device:polar'
 - [ ] 35 'device:twitter-stream'
 - [ ] 34 'device:lifx-light'
-- [x] 33 'device:johnnyfive' - Moheeb WIP
+- [ ] 33 'device:johnnyfive' - Moheeb WIP
 - [ ] 33 'device:sonos'
 - [ ] 19 'device:insteon'
 - [ ] 18 'device:osc'
