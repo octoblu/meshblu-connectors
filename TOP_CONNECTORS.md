@@ -15,7 +15,7 @@
 - [ ] 57 'device:citrix-receiver' - Moheeb WIP
 - [ ] 51 'device:dynamicj5' - Moheeb WIP
 - [ ] 50 'device:lifx' - Moheeb WIP
-- [ ] 50 'device:say-hello'
+- [x] 50 'device:say-hello' - Peter
 - [ ] 44 'device:raspberrypi'
 - [ ] 44 'device:alljoyn'
 - [ ] 43 'device:mindwave'
