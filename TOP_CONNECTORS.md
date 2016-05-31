@@ -3,18 +3,18 @@
 - [x] 1692 'device:chromecast' - Peter
 - [x] 1535 'device:wemo' - Peter
 - [ ] 260 'device:blink1' - Peter (In Progress)
-- [ ] 256 'device:hue'
-- [ ] 244 'device:shell'
+- [x] 256 'device:hue' - Moheeb WIP
+- [ ] 244 'device:shell' 
 - [x] 214 'device:bean' - Peter
-- [ ] 142 'device:beacon'
-- [ ] 61 'device:serial'
+- [x] 142 'device:beacon' - Moheeb WIP
+- [x] 61 'device:serial' - Moheeb WIP
 - [ ] 61 'device:http-connector'
 - [ ] 60 'device:hue-light'
 - [ ] 60 'device:forwarder'
 - [ ] 57 'device:myo'
-- [ ] 57 'device:citrix-receiver'
-- [ ] 51 'device:dynamicj5'
-- [ ] 50 'device:lifx'
+- [x] 57 'device:citrix-receiver' - Moheeb WIP
+- [x] 51 'device:dynamicj5' - Moheeb WIP
+- [x] 50 'device:lifx' - Moheeb WIP
 - [ ] 50 'device:say-hello'
 - [ ] 44 'device:raspberrypi'
 - [ ] 44 'device:alljoyn'
@@ -23,7 +23,7 @@
 - [ ] 36 'device:polar'
 - [ ] 35 'device:twitter-stream'
 - [ ] 34 'device:lifx-light'
-- [ ] 33 'device:johnnyfive'
+- [x] 33 'device:johnnyfive' - Moheeb WIP
 - [ ] 33 'device:sonos'
 - [ ] 19 'device:insteon'
 - [ ] 18 'device:osc'
@@ -44,7 +44,7 @@
 - [ ] 6 'device:discovery-master'
 - [ ] 6 'device:meshlium'
 - [ ] 5 'device:generic'
-- [ ] 5 'device:curie'
+- [x] 5 'device:curie' - Moheeb WIP
 - [ ] 5 'device:sphero-bb-8'
 - [ ] 5 'device:oculus'
 - [ ] 4 'device:rolling-spider'
@@ -59,7 +59,7 @@
 - [ ] 3 'device:cloudsight'
 - [ ] 3 'device:google-vision'
 - [ ] 2 'device:lync-status'
-- [ ] 2 'device:initial-state'
+- [x] 2 'device:initial-state' - Moheeb WIP
 - [ ] 2 'device:mongodb'
 - [ ] 1 'device:other2'
 - [ ] 1 'device:banjocanyon'
