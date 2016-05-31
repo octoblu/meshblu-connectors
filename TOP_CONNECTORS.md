@@ -3,7 +3,7 @@
 - [x] 1692 'device:chromecast' - Peter
 - [x] 1535 'device:wemo' - Peter
 - [x] 260 'device:blink1' - Peter
-- [ ] 256 'device:hue' - Moheeb WIP
+- [x] 256 'device:hue' - Moheeb
 - [x] 244 'device:shell' - Peter
 - [x] 214 'device:bean' - Peter
 - [ ] 142 'device:beacon' - Moheeb WIP
@@ -13,7 +13,7 @@
 - [ ] 60 'device:forwarder'
 - [ ] 57 'device:myo'
 - [ ] 57 'device:citrix-receiver' - Moheeb WIP
-- [ ] 51 'device:dynamicj5' - Moheeb WIP
+- [x] 51 'device:dynamicj5' - Moheeb
 - [ ] 50 'device:lifx' - Moheeb WIP
 - [x] 50 'device:say-hello' - Peter
 - [ ] 44 'device:raspberrypi'
