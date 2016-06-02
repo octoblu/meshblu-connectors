@@ -6,8 +6,8 @@
 - [x] 256 'device:hue' - Moheeb
 - [x] 244 'device:shell' - Peter
 - [x] 214 'device:bean' - Peter
-- [ ] 142 'device:beacon' - Moheeb WIP
-- [ ] 61 'device:serial' - Moheeb WIP
+- [x] 142 'device:beacon' - Moheeb/Peter
+- [x] 61 'device:serial' - Moheeb
 - [ ] 61 'device:http-connector'
 - [ ] 60 'device:hue-light'
 - [ ] 60 'device:forwarder'
@@ -23,7 +23,7 @@
 - [ ] 36 'device:polar'
 - [ ] 35 'device:twitter-stream'
 - [ ] 34 'device:lifx-light'
-- [ ] 33 'device:johnnyfive' - Moheeb WIP
+- [x] 33 'device:johnnyfive' - Moheeb 
 - [ ] 33 'device:sonos'
 - [ ] 19 'device:insteon'
 - [ ] 18 'device:osc'
@@ -37,7 +37,7 @@
 - [ ] 13 'device:myq'
 - [ ] 11 'device:blendmicro'
 - [ ] 11 'device:gateblu'
-- [ ] 11 'device:powershell'
+- [ ] 11 'device:powershell' Peter/Moheeb
 - [ ] 10 'device:fadecandy'
 - [ ] 10 'device:crestron'
 - [ ] 8 'device:sensoria'
@@ -59,7 +59,7 @@
 - [ ] 3 'device:cloudsight'
 - [ ] 3 'device:google-vision'
 - [ ] 2 'device:lync-status'
-- [x] 2 'device:initial-state' - Moheeb WIP
+- [x] 2 'device:initial-state' - Moheeb 
 - [ ] 2 'device:mongodb'
 - [ ] 1 'device:other2'
 - [ ] 1 'device:banjocanyon'
