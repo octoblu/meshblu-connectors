@@ -15,10 +15,15 @@
 - [x] Updates for connectors
 - [x] Stop / Start for connectors
 - [ ] Headless Installer
+- [ ] Break apart the connector assembler
+- [ ] Error logs / handling
+- [ ] Finalize Connector Factory
+- [ ] Intergrate into app.octoblu.com
 - [x] Updated Schema
 - [ ] Documentation
 - [ ] Update Connectors. See [here](https://github.com/octoblu/meshblu-connectors/blob/master/TOP_CONNECTORS.md)
 
 # Extras
 - [ ] Multiple Versions of Node
+- [ ] Uninstaller
 - [ ] Tutorials
