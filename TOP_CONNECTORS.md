@@ -11,7 +11,7 @@
 - [x] 61 'device:http-connector' Moheeb/Peter
 - [x] 60 'device:hue-light' Moheeb (needs test with actual hue)
 - [ ] 57 'device:myo'
-- [ ] 57 'device:citrix-receiver' - Moheeb WIP
+- [x] 57 'device:citrix-receiver' - Moheeb
 - [ ] 50 'device:lifx' - Moheeb WIP
 - [x] 50 'device:say-hello' - Peter
 - [ ] 43 'device:mindwave'
