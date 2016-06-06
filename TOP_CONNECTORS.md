@@ -8,8 +8,8 @@
 - [x] 214 'device:bean' - Peter
 - [x] 142 'device:beacon' - Moheeb/Peter
 - [x] 61 'device:serial' - Moheeb
-- [ ] 61 'device:http-connector'
-- [ ] 60 'device:hue-light'
+- [x] 61 'device:http-connector' Moheeb/Peter
+- [x] 60 'device:hue-light' Moheeb (needs test with actual hue)
 - [ ] 57 'device:myo'
 - [ ] 57 'device:citrix-receiver' - Moheeb WIP
 - [ ] 50 'device:lifx' - Moheeb WIP
