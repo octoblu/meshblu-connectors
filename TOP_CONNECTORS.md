@@ -12,7 +12,7 @@
 - [x] 60 'device:hue-light' Moheeb (needs test with actual hue)
 - [x] 57 'device:myo' - Moheeb (needs to be tested with actual myo - plugin runs/builds)
 - [x] 57 'device:citrix-receiver' - Moheeb
-- [ ] 50 'device:lifx' - Moheeb WIP
+- [x] 50 'device:lifx' - Moheeb (needs to be proper tested with a real lifx)
 - [x] 50 'device:say-hello' - Peter
 - [ ] 43 'device:mindwave'
 - [ ] 37 'device:webcam'
