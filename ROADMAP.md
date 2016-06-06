@@ -16,7 +16,7 @@
 - [x] Stop / Start for connectors
 - [ ] Update Connectors. See [here](https://github.com/octoblu/meshblu-connectors/blob/master/TOP_CONNECTORS.md)
 - [ ] Headless Installer
-- [ ] Error logs / handling
+- [x] Error logs / handling
 - [ ] Finalize Connector Factory
 - [ ] Intergrate into app.octoblu.com
 - [x] Updated Schema
