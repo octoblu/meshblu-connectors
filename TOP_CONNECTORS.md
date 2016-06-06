@@ -10,7 +10,7 @@
 - [x] 61 'device:serial' - Moheeb
 - [x] 61 'device:http-connector' Moheeb/Peter
 - [x] 60 'device:hue-light' Moheeb (needs test with actual hue)
-- [ ] 57 'device:myo'
+- [x] 57 'device:myo' - Moheeb (needs to be tested with actual myo - plugin runs/builds)
 - [x] 57 'device:citrix-receiver' - Moheeb
 - [ ] 50 'device:lifx' - Moheeb WIP
 - [x] 50 'device:say-hello' - Peter
