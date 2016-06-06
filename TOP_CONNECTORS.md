@@ -14,7 +14,7 @@
 - [x] 57 'device:citrix-receiver' - Moheeb
 - [x] 50 'device:lifx' - Moheeb (needs to be proper tested with a real lifx)
 - [x] 50 'device:say-hello' - Peter
-- [ ] 43 'device:mindwave'
+- [x] 43 'device:mindwave' - Moheeb (Needs to be tested on windows)
 - [ ] 37 'device:webcam'
 - [ ] 36 'device:polar'
 - [ ] 35 'device:twitter-stream'
