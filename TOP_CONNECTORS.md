@@ -10,15 +10,14 @@
 - [x] 61 'device:serial' - Moheeb
 - [x] 61 'device:http-connector' Moheeb/Peter
 - [x] 60 'device:hue-light' Moheeb (needs test with actual hue)
-- [x] 57 'device:myo' - Moheeb (needs to be tested with actual myo - plugin runs/builds)
+- [x] 57 'device:myo' - Moheeb 
 - [x] 57 'device:citrix-receiver' - Moheeb
 - [x] 50 'device:lifx' - Moheeb (needs to be proper tested with a real lifx)
 - [x] 50 'device:say-hello' - Peter
 - [x] 43 'device:mindwave' - Moheeb (Needs to be tested on windows)
-- [ ] 37 'device:webcam'
 - [ ] 36 'device:polar'
-- [ ] 35 'device:twitter-stream'
-- [ ] 34 'device:lifx-light'
+- [x] 35 'device:twitter-stream' - Moheeb
+- [x] 34 'device:lifx-light' - Moheeb
 - [x] 33 'device:johnnyfive' - Moheeb 
 - [ ] 33 'device:sonos'
 - [ ] 19 'device:insteon'
@@ -31,7 +30,7 @@
 - [ ] 13 'device:node-copter'
 - [ ] 13 'device:myq'
 - [ ] 11 'device:blendmicro'
-- [ ] 11 'device:powershell' Peter/Moheeb
+- [x] 11 'device:powershell' Peter/Moheeb
 - [ ] 10 'device:fadecandy'
 - [ ] 10 'device:crestron'
 - [ ] 8 'device:sensoria'
