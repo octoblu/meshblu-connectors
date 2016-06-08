@@ -19,7 +19,7 @@
 - [x] 35 'device:twitter-stream' - Moheeb
 - [x] 34 'device:lifx-light' - Moheeb
 - [x] 33 'device:johnnyfive' - Moheeb 
-- [ ] 33 'device:sonos'
+- [x] 33 'device:sonos' - Moheeb
 - [ ] 19 'device:insteon'
 - [ ] 18 'device:osc'
 - [ ] 18 'device:hue-button'
