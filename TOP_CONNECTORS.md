@@ -21,7 +21,7 @@
 - [x] 33 'device:johnnyfive' - Moheeb 
 - [x] 33 'device:sonos' - Moheeb
 - [ ] 19 'device:insteon'
-- [ ] 18 'device:osc'
+- [x] 18 'device:osc'
 - [ ] 18 'device:hue-button'
 - [ ] 17 'device:tentacle-serial'
 - [ ] 17 'device:wunderbar'
