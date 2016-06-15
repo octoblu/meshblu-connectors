@@ -1,27 +1,27 @@
 ## Top Connectors
 
-- [x] 1692 'device:chromecast' - Peter
-- [x] 1535 'device:wemo' - Peter
-- [x] 260 'device:blink1' - Peter
-- [x] 256 'device:hue' - Moheeb
-- [x] 244 'device:shell' - Peter
-- [x] 214 'device:bean' - Peter
-- [x] 142 'device:beacon' - Moheeb/Peter
-- [x] 61 'device:serial' - Moheeb
-- [x] 61 'device:http-connector' Moheeb/Peter
-- [x] 60 'device:hue-light' Moheeb (needs test with actual hue)
-- [x] 57 'device:myo' - Moheeb 
-- [x] 57 'device:citrix-receiver' - Moheeb
-- [x] 50 'device:lifx' - Moheeb (needs to be proper tested with a real lifx)
-- [x] 50 'device:say-hello' - Peter
-- [x] 43 'device:mindwave' - Moheeb (Needs to be tested on windows)
+- [x] 1692 'device:chromecast'
+- [ ] 1535 'device:wemo'
+- [ ] 260 'device:blink1'
+- [ ] 256 'device:hue'
+- [ ] 244 'device:shell'
+- [ ] 214 'device:bean'
+- [ ] 142 'device:beacon'
+- [ ] 61 'device:serial'
+- [ ] 61 'device:http-connector'
+- [ ] 60 'device:hue-light'
+- [ ] 57 'device:myo'
+- [ ] 57 'device:citrix-receiver'
+- [ ] 50 'device:lifx'
+- [x] 50 'device:say-hello'
+- [ ] 43 'device:mindwave'
 - [ ] 36 'device:polar'
-- [x] 35 'device:twitter-stream' - Moheeb
-- [x] 34 'device:lifx-light' - Moheeb
-- [x] 33 'device:johnnyfive' - Moheeb 
-- [x] 33 'device:sonos' - Moheeb
+- [ ] 35 'device:twitter-stream'
+- [ ] 34 'device:lifx-light'
+- [ ] 33 'device:johnnyfive'
+- [ ] 33 'device:sonos'
 - [ ] 19 'device:insteon'
-- [x] 18 'device:osc'
+- [ ] 18 'device:osc'
 - [ ] 18 'device:hue-button'
 - [ ] 17 'device:tentacle-serial'
 - [ ] 17 'device:wunderbar'
@@ -30,12 +30,12 @@
 - [ ] 13 'device:node-copter'
 - [ ] 13 'device:myq'
 - [ ] 11 'device:blendmicro'
-- [x] 11 'device:powershell' Peter/Moheeb
+- [ ] 11 'device:powershell'
 - [ ] 10 'device:fadecandy'
 - [ ] 10 'device:crestron'
 - [ ] 8 'device:sensoria'
 - [ ] 6 'device:discovery-master'
-- [x] 5 'device:curie' - Moheeb WIP
+- [ ] 5 'device:curie'
 - [ ] 5 'device:sphero-bb-8'
 - [ ] 5 'device:oculus'
 - [ ] 4 'device:rolling-spider'
@@ -46,6 +46,6 @@
 - [ ] 3 'device:upc-lookup'
 - [ ] 3 'device:cloudsight'
 - [ ] 3 'device:google-vision'
-- [x] 2 'device:initial-state' - Moheeb 
+- [ ] 2 'device:initial-state'
 - [ ] 1 'device:xen-director'
 - [ ] 1 'device:intelanalytics'
