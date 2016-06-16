@@ -3,7 +3,7 @@
 - [x] 1692 'device:chromecast'
 - [x] 1535 'device:wemo'
 - [x] 260 'device:blink1'
-- [ ] 256 'device:hue'
+- [x] 256 'device:hue'
 - [ ] 244 'device:shell'
 - [ ] 214 'device:bean'
 - [ ] 142 'device:beacon'
