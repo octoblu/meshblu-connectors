@@ -1,8 +1,8 @@
 ## Top Connectors
 
 - [x] 1692 'device:chromecast'
-- [ ] 1535 'device:wemo'
-- [ ] 260 'device:blink1'
+- [x] 1535 'device:wemo'
+- [x] 260 'device:blink1'
 - [ ] 256 'device:hue'
 - [ ] 244 'device:shell'
 - [ ] 214 'device:bean'
