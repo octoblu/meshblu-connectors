@@ -19,8 +19,8 @@
 - [x] Error logs / handling
 - [ ] Finalize Connector Factory
 - [ ] Intergrate into app.octoblu.com
-- [ ] Add Intercom support to Installer
-- [ ] Add Intercom support to Connector Factory
+- [x] Add Intercom support to Installer
+- [x] Add Intercom support to Connector Factory
 - [x] Updated Schema
 - [ ] Documentation
 
