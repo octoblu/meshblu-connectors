@@ -18,5 +18,5 @@
 - [ ] 'device:insteon'
 - [ ] 'device:hue-button'
 - [ ] 'device:powershell'
-- [ ] 'device:crestron'
+- [ ] 'device:netscaler'
 - [ ] 'device:xen-director'
