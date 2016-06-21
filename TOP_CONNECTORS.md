@@ -8,7 +8,7 @@
 - [x] 'device:bean'
 - [x] 'device:beacon'
 - [x] 'device:http-connector'
-- [ ] 'device:myo'
+- [x] 'device:myo'
 - [ ] 'device:citrix-receiver'
 - [ ] 'device:lifx'
 - [x] 'device:say-hello'
