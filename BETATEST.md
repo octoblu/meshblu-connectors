@@ -1,5 +1,1 @@
-## Do you want to be a beta tester?
-
-### Use the Connector Factory:
-
-### [connector-factory.octoblu.com](https://connector-factory.octoblu.com)
+# See the tutorial [here](https://meshblu-connectors.readme.io/docs/create-and-install-a-connector) for more information
