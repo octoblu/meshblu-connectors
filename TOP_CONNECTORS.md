@@ -15,7 +15,6 @@
 - [ ] 'device:mindwave'
 - [ ] 'device:polar'
 - [ ] 'device:sonos'
-- [ ] 'device:insteon'
 - [ ] 'device:hue-button'
 - [ ] 'device:powershell'
 - [ ] 'device:netscaler'
