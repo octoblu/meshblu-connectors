@@ -10,7 +10,7 @@
 - [x] 'device:http-connector'
 - [x] 'device:myo'
 - [x] 'device:citrix-receiver'
-- [ ] 'device:lifx'
+- [x] 'device:lifx'
 - [x] 'device:say-hello'
 - [ ] 'device:mindwave'
 - [ ] 'device:polar'
