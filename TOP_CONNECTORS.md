@@ -12,7 +12,7 @@
 - [x] 'device:citrix-receiver'
 - [x] 'device:lifx'
 - [x] 'device:say-hello'
-- [ ] 'device:mindwave'
+- [x] 'device:mindwave'
 - [ ] 'device:polar'
 - [ ] 'device:sonos'
 - [ ] 'device:hue-button'
