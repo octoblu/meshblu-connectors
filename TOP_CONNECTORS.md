@@ -13,7 +13,7 @@
 - [x] 'device:lifx'
 - [x] 'device:say-hello'
 - [x] 'device:mindwave'
-- [ ] 'device:polar'
+- [x] 'device:ble-heartrate'
 - [ ] 'device:sonos'
 - [ ] 'device:hue-button'
 - [ ] 'device:powershell'
