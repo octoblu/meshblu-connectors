@@ -14,7 +14,7 @@
 - [x] 'device:say-hello'
 - [x] 'device:mindwave'
 - [x] 'device:ble-heartrate'
-- [ ] 'device:sonos'
+- [x] 'device:sonos'
 - [ ] 'device:hue-button'
 - [ ] 'device:powershell'
 - [ ] 'device:netscaler'
