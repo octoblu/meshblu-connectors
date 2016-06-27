@@ -15,7 +15,7 @@
 - [x] 'device:mindwave'
 - [x] 'device:ble-heartrate'
 - [x] 'device:sonos'
-- [ ] 'device:hue-button'
+- [x] 'device:hue-button'
 - [ ] 'device:powershell'
 - [ ] 'device:netscaler'
 - [ ] 'device:xen-director'
