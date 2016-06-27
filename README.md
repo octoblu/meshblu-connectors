@@ -1,7 +1,13 @@
 # Meshblu Connectors
 
-## [View Documentation](https://meshblu-connectors.readme.io)
+### [View Documentation](https://meshblu-connectors.readme.io)
 
-## [View Roadmap](https://github.com/octoblu/meshblu-connectors/blob/master/ROADMAP.md)
+### [View Roadmap](https://github.com/octoblu/meshblu-connectors/blob/master/ROADMAP.md)
 
-## [View Official Connectors](https://github.com/octoblu/meshblu-connectors/blob/master/TOP_CONNECTORS.md)
+### [View Official Connectors](https://github.com/octoblu/meshblu-connectors/blob/master/OFFICIAL_CONNECTORS.md)
+
+### [macOS Uninstall Script](https://github.com/octoblu/meshblu-connectors/blob/master/mac-uninstall-script.sh)
+
+```bash
+env CONNECTOR_UUID="[insert-connector-uuid-here]" curl -s https://raw.githubusercontent.com/octoblu/meshblu-connectors/master/mac-uninstall-script.sh | bash
+```
