@@ -16,6 +16,5 @@
 - [x] 'device:ble-heartrate'
 - [x] 'device:sonos'
 - [x] 'device:hue-button'
-- [x] 'device:powershell'
 - [ ] 'device:netscaler'
 - [ ] 'device:xen-director'
