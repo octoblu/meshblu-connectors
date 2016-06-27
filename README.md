@@ -9,5 +9,5 @@
 ### [macOS Uninstall Script](https://github.com/octoblu/meshblu-connectors/blob/master/mac-uninstall-script.sh)
 
 ```bash
-env CONNECTOR_UUID="[insert-connector-uuid-here]" curl -s https://raw.githubusercontent.com/octoblu/meshblu-connectors/master/mac-uninstall-script.sh | bash
+curl -s https://raw.githubusercontent.com/octoblu/meshblu-connectors/master/mac-uninstall-script.sh | env CONNECTOR_UUID="[insert-connector-uuid-here]" bash
 ```
