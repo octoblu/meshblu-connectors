@@ -14,15 +14,14 @@
 - [x] Custom Online Status in Connectors
 - [x] Updates for connectors
 - [x] Stop / Start for connectors
-- [ ] Update Connectors. See [here](https://github.com/octoblu/meshblu-connectors/blob/master/TOP_CONNECTORS.md)
-- [ ] Headless Installer
+- [x] Update / Create Official Connectors
 - [x] Error logs / handling
-- [ ] Finalize Connector Factory
-- [ ] Intergrate into app.octoblu.com
+- [x] Finalize Connector Factory
+- [x] Intergrate into app.octoblu.com
 - [x] Add Intercom support to Installer
 - [x] Add Intercom support to Connector Factory
 - [x] Updated Schema
-- [ ] Documentation
+- [x] Documentation
 
 # Extras
 - [ ] Multiple Versions of Node
@@ -31,3 +30,4 @@
 - [ ] Community Connector Support
 - [ ] Auto-Update Service
 - [ ] Error Email Service
+- [ ] Headless Installer
